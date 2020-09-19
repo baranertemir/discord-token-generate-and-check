@@ -8,6 +8,3 @@ location.reload();
 }
 
 
-after:
-
-login('token')
