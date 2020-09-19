@@ -11,6 +11,7 @@ Discord login with token:
 1- First come login place on discord. Press CTRL+Shift+i and paste login_with_token code in console.
 
 after paste:
+
 login('your token')
 
 
