@@ -7,6 +7,7 @@ Checker:
 https://github.com/Lemons1337/Discord-Token-Checker
 
 Discord login with token:
+
 1- First come login place on discord. Press CTRL+Shift+i and paste this code in console:
 
 function login(token) {
